@@ -23,13 +23,13 @@
     "@angular/platform-browser": "^14.0.2",
     "@angular/platform-browser-dynamic": "^14.0.2",
     "@angular/router": "^14.0.2",
-    "contentful": "^9.1.32",
+    "contentful": "^9.3.7",
     "core-js": "^2.6.12",
     "rxjs": "^7.5.5",
     "zone.js": "^0.11.6"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^14.0.2",
+    "@angular-devkit/build-angular": "^18.2.2",
     "@angular/cli": "^14.0.2",
     "@angular/compiler-cli": "^14.0.2",
     "@angular/language-service": "^14.0.2",
