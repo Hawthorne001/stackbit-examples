@@ -13,7 +13,7 @@
   "dependencies": {
     "@stackbit/annotations": "^0.1.1",
     "contentful": "^9.1.29",
-    "contentful-export": "^7.17.7",
+    "contentful-export": "^7.19.150",
     "contentful-import": "^8.3.0",
     "markdown-to-jsx": "^7.1.6",
     "next": "12.1.0",
