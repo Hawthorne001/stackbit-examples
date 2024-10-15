@@ -22,7 +22,7 @@
     "dotenv": "^16.0.0",
     "instantsearch.css": "^7.4.5",
     "jose": "^3.20.3",
-    "markdown-to-jsx": "^7.1.7",
+    "markdown-to-jsx": "^7.4.0",
     "marked": "^4.0.12",
     "next": "^12.1.0",
     "parse-github-url": "^1.0.2",
