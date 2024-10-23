@@ -19,7 +19,7 @@
         "@types/react-dom": "18.0.10",
         "contentful": "^9.3.0",
         "eslint": "8.33.0",
-        "eslint-config-next": "13.1.6",
+        "eslint-config-next": "15.0.0",
         "highlight.js": "^11.7.0",
         "markdown-it": "^13.0.1",
         "next": "13.1.6",
