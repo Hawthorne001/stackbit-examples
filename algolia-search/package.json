@@ -17,7 +17,7 @@
     "algoliasearch": "^4.12.2",
     "axios": "^0.24.0",
     "classnames": "^2.3.1",
-    "daisyui": "^2.6.3",
+    "daisyui": "^4.0.0",
     "dayjs": "^1.10.8",
     "dotenv": "^16.0.0",
     "instantsearch.css": "^7.4.5",
