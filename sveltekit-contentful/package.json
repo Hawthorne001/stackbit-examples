@@ -18,7 +18,7 @@
   },
   "type": "module",
   "dependencies": {
-    "contentful": "^9.1.33",
+    "contentful": "^11.4.3",
     "marked": "^4.0.18"
   }
 }
