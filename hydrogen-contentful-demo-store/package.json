@@ -52,7 +52,7 @@
     "react-dom": "^18.2.0",
     "react-use": "^17.4.0",
     "sanitize-html": "^2.7.1",
-    "title": "^3.4.4",
+    "title": "^4.0.0",
     "typographic-base": "^1.0.4"
   },
   "author": "salen"
