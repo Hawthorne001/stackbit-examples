@@ -16,7 +16,7 @@
   "dependencies": {
     "@ninetailed/experience.js-next": "^1.0.0",
     "classnames": "^2.3.1",
-    "contentful": "^9.1.28",
+    "contentful": "^9.3.6",
     "next": "^12.1.6",
     "normalize.css": "^8.0.1",
     "react": "^17",
