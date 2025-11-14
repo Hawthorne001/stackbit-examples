@@ -11,9 +11,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "contentlayer": "^0.2.10-dev.1",
+    "contentlayer": "^0.3.0",
     "next": "^13.0.2",
-    "next-contentlayer": "^0.2.10-dev.1",
+    "next-contentlayer": "^0.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
